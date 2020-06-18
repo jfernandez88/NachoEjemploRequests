@@ -1,0 +1,1 @@
+{"codigo":96,"descripcion":"Se anulo el registro correctamente","exception":null}

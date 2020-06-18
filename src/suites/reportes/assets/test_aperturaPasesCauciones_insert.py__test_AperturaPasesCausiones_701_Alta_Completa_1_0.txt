@@ -1,0 +1,1 @@
+{"codigo":38103,"descripcion":"La operación bursatil se agrego exitosamente.","exception":null}

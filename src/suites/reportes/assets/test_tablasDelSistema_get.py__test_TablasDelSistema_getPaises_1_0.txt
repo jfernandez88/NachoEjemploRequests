@@ -1,0 +1,1 @@
+[{"codigo":1,"descripcion":"ARGENTINA","idPais":"ARG"},{"codigo":2,"descripcion":"ESTADOS UNIDOS","idPais":null},{"codigo":3,"descripcion":"BRASIL","idPais":"BRA"},{"codigo":4,"descripcion":"ITALIA","idPais":null},{"codigo":5,"descripcion":"URUGUAY","idPais":null},{"codigo":6,"descripcion":"BAHAMAS","idPais":null}]

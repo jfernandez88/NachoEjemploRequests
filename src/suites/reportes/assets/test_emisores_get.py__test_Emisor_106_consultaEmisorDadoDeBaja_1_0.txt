@@ -1,0 +1,1 @@
+[{"pais":{"descripcion":"ARGENTINA","idPais":"ARG","estaAnulado":false},"moneda":{"descripcion":"PESOS","idMoneda":"ARS","estaAnulado":false},"esPrivado":false,"idEmisor":"API","descripcion":"EmisorAPIUpdateeeeee11111","estaAnulado":false}]

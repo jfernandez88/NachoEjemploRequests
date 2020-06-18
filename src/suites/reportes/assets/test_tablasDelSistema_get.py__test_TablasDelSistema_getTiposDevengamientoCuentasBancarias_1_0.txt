@@ -1,0 +1,1 @@
+[{"codigo":"LD","descripcion":"DEVENGAMIENTO 24 HORAS"},{"codigo":"LI","descripcion":"DEVENGAMIENTO INMEDIATO"},{"codigo":"ND","descripcion":"NO DEVENGA INTERESES"}]

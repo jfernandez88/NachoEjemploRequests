@@ -1,0 +1,1 @@
+[{"codigoEspecie":"PR12","isinCode":"ARARGE035162","moneda":{"descripcion":"PESOS","idMoneda":"ARS","estaAnulado":false},"tipoEspecie":null,"emisor":{"descripcion":"REPUBLICA ARGENTINA","estaAnulado":false,"idEmisor":"3"},"idEspecie":"PR12","descripcion":"PR12 BONO CONSOL MON NACIONAL 4TA SERIE 2%","estaAnulado":false}]
