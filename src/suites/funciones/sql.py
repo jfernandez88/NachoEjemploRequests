@@ -7,8 +7,8 @@ def sqlQuery(query):
         conn = pyodbc.connect('Driver={SQL SERVER};'
                       "Server="+Server+";"
                       "Database="+Base+";"
-                      'UID=UsuarioGenerico;'
-                      'PWD=vesco;')
+                      'UID=asas;'
+                      'PWD=asas;')
                         
         cursor = conn.cursor()
         cursor.execute(query)
